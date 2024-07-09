@@ -1,5 +1,13 @@
 # Changelog
 
+## [12.27.1](https://github.com/LazyVim/LazyVim/compare/v12.27.0...v12.27.1) (2024-07-09)
+
+
+### Bug Fixes
+
+* **java:** fix `config_overrides` for tests ([#3968](https://github.com/LazyVim/LazyVim/issues/3968)) ([b481b64](https://github.com/LazyVim/LazyVim/commit/b481b644ddf9f02470ec50264e63c6dd69d444f8))
+* **vscode:** allow overriding default vscode keymaps. Fixes [#3950](https://github.com/LazyVim/LazyVim/issues/3950) ([6765052](https://github.com/LazyVim/LazyVim/commit/67650528e47a57fb687bce2d7bb61fb4f1af8f63))
+
 ## [12.27.0](https://github.com/LazyVim/LazyVim/compare/v12.26.2...v12.27.0) (2024-07-07)
 
 
